@@ -4,6 +4,7 @@
 
 * [Sobre](#sobre)
 * [Status do Projeto](#status-do-projeto)
+* [Deploy](#deploy)
 * [Pré-requisitos](#pré-requisitos)
 * [Testes](#testes)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -22,6 +23,11 @@
 <h4> 	
 Concluído!
 </h4>
+
+### Deploy
+[↩](#deploy)
+
+<p>https://notepad-nlw-expert.netlify.app/</p>
 
 ### Pré-requisitos 
 [↩](#indice)
